@@ -5,6 +5,7 @@ from screens.confirmation import ConfirmationScreen
 from screens.amount_input import AmountInputScreen
 from screens.pin_input import PinInputScreen
 from styles.theme_manager import ThemeManager, ThemeSwitcher
+# just a test
 
 class ATMApp(QMainWindow):
     def __init__(self):
